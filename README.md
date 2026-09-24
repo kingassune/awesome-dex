@@ -8,6 +8,7 @@ A curated list of Decentralized Exchange, Decentralized Exchange Protocol and Wa
 
   - [Decentralized Exchange Protocol](#decentralized-exchange-protocol)
   - [Decentralized Exchange](#decentralized-exchange)
+  - [Trading Interfaces](#trading-interfaces)
   - [Wallet Protocol/Standard](#wallet-protocol/standard)
   - [Wallet](#wallet)
 
@@ -48,6 +49,10 @@ A curated list of Decentralized Exchange, Decentralized Exchange Protocol and Wa
 - [Token Store](https://token.store/)
 - [TokenJar](https://tokenjar.io/)
 - [Tokenlon](https://token.im/tokenlon)
+
+## Trading Interfaces
+
+- [GDEX](https://gdex.pro/) : Web-based multi-chain crypto trading terminal with copy trading and wallet analytics.
 
 ## Wallet Protocol/Standard
 
